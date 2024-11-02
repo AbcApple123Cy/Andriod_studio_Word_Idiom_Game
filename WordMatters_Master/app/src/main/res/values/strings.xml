@@ -1,0 +1,889 @@
+<resources>
+    <string name="app_name">WordQuizMaster</string>
+
+    <string-array name="questions">
+        <item>What goes up but never comes down?</item>
+        <item>What month of the year has 28 days?</item>
+        <item>What is Mrs. Right’s first name?</item>
+        <item>I have branches yet I have no leaves, no trunk and no fruit. What am I?</item>
+        <item>They can swim but they’re not fish, they are slow, but they are not turtles, they live and hang from tree but they’re not monkeys. What are they?</item>
+        <item>I shave every day, but my beard stays the same. What am I?</item>
+        <item>Buzzing and bumbling is all we do, we fly from one plant to another and may be noisy, but hey, we are busy making sweet treat that is oh so sugary.</item>
+        <item>I’m light as a feather, yet the strongest person can’t hold me for five minutes. What am I?</item>
+        <item>I can fly but I am not a bird, I am colorful but I am not a rainbow, I am beautiful and social but I am not a person. What am I?</item>
+        <item>I’m tall when I’m young, and I’m short when I’m old. What am I?</item>
+        <item>What is black when it’s clean and white when it’s dirty?</item>
+        <item>This can be hot, sweet and bitter. It is given as a gift and sometimes it comes in a block, bar, chip or a fountain in which you can dip. What is it?</item>
+        <item>I can be white or dark, I am sweet and sometimes bitter and you see me on a cupcake or in a cookie. What am I?</item>
+        <item>I can cycle many hours, but I don’t get tired even at the end of the day. What am I?</item>
+        <item>What has hands, but can’t clap?</item>
+        <item>Kids, elders and a monster love me, I’m mostly round and brown if you ask me. What am I?</item>
+        <item>You see him flying around carrying bows and arrows and once he hits you with it, all you feel is love not sorrow. He must have hit us both. Who is he?</item>
+        <item>The more of this there is, the less you see. What is it?</item>
+        <item>Sometimes expensive, sometimes cheap, you can find this in paper or the internet, it is done in a park, a restaurant or a movie theater and some people even seek a matchmaker. It can also be a sweet treat. What is it?</item>
+        <item>David’s parents have three sons: Snap, Crackle, and what’s the name of the third son?</item>
+        <item>Where does today come before yesterday?</item>
+        <item>I like to stick my face on the window with my tail wagging for excitement, and I can do one, two, three or even more tricks. What am I?</item>
+        <item>Sometimes plastic, sometimes porcelain, sometimes a boy, sometimes a girl and you can do anything you want with it for it is just a toy. What is it?</item>
+        <item>I am American, I am also Singaporean, Australian and Hong Kongese. I am greatly valued by the people of all these countries plus more. Every day I am traded all over the world. What am I?</item>
+        <item>What can’t talk but will reply when spoken to?</item>
+        <item>What has to be broken before you can use it?</item>
+        <item>I have many faces, expressions and emotions and am only one tap away. What am I?</item>
+        <item>What book do teenagers and millennials love the most and voluntarily spend hours looking through?</item>
+        <item>What is always in front of you but can’t be seen?</item>
+        <item>New or old, steady or broken, first or last, young or old, no matter which one, treasure them for they are worth more that gold.</item>
+        <item>What gift should you give blind people, drunks, and nerds for Christmas?</item>
+        <item>I can break, I can be clogged, I can be attacked, I can be given, I can be kept, I can be crushed yet I can be whole at the same time. What am I?</item>
+        <item>What word in the dictionary is hilarious?</item>
+        <item>What gets bigger when more is taken away?</item>
+        <item>Roses are red, violets are blue, it’s shiny, fine and fancy and your boyfriend wants to give it to you. What do I have for you?</item>
+        <item>What has a head, tail, large feet, a pocket and is named Joey?</item>
+        <item>Quick, long, first or last, this can be given in the morning by your mom, boyfriend or dad to say goodnight. What is it?</item>
+        <item>What can’t be put in a saucepan?</item>
+        <item>You walk into a room that contains a match, a kerosene lamp, a candle and a fireplace. What would you light first?</item>
+        <item>From tree to tree it jumps and it swings and this furry little fella likes fruits, nuts and seeds. And sometimes people say to “stop ‘us’-ing around.</item>
+        <item>It belongs to you, but other people use it more than you do. What is it?</item>
+        <item>What has one eye, but can’t see?</item>
+        <item>You can slice and dice me, peel and chop me, cut me, cook me and I might make you cry. What am I?</item>
+        <item>What flowers are colorful, fragrant and have children?</item>
+        <item>This has wings but it cannot fly, it is big, tall and mighty, it runs fast and it is truly the king of the flock.</item>
+        <item>What has many keys but can’t open a single lock?</item>
+        <item>What has lots of eyes, but can’t see?</item>
+        <item>What can you break, even if you never pick it up or touch it?</item>
+        <item>What do you purposefully put lots of in and on your body, but run away from when you encounter it outside?</item>
+        <item>What do you purposefully put lots of in and on your body, but run away from when you encounter it outside?</item>
+        <item>Source of happiness, source of sorrow, I can grow fast, I can die slow, I can be a joy and a pain as you may already know. What am I?</item>
+        <item>This can be yellow, red, pink or white. It is delicate and fragrant and you better not forget to give some to me regularly! What am it?</item>
+        <item>If you’ve got me, you want to share me; if you share me, you haven’t kept me. What am I?</item>
+        <item>I follow you all the time and copy your every move, but you can’t touch me or catch me. What am I?</item>
+        <item>I can be liquid or solid, sometimes I bubble and you can find me in every home. What am I?</item>
+        <item>What is full of holes but still holds water?</item>
+        <item>I go up and I go down, sometimes I am curvy and sometimes I am straight. What am I?</item>
+        <item>What goes up and down but doesn’t move?</item>
+        <item>I go up and I go down, sometimes I am curvy and sometimes I am straight. What am I?</item>
+        <item>I go to and from India and Burma, Alaska and Nebraska and travel all over the world but I always stay in the corner. What am I?</item>
+        <item>I go up and I go down, I am blazing and hot. If you look right at me, your eyes will wish you had not. What am I?</item>
+        <item>What has four legs and a body but cannot walk?</item>
+        <item>Booming and zapping is what I can do, make sure to take cover so I won’t get you. What am I?</item>
+        <item>What gets wet while drying?</item>
+        <item>What flowers can french kiss and smooch?</item>
+        <item>A mystical beast that’s difficult to catch and it is known to only have a single horn. What is it?</item>
+        <item>What water can you eat and chew?</item>
+        <item>What invention lets you look right through a wall?</item>
+        <item>What is sweet, funny, annoying at times, cuddly, lovable and a bit hairy?</item>
+        <item>Black and white, patterns, print or stripes, this is my make-up and I live in the wild. What am I?</item>
+        <item>More lives than any other is what they have, and you see them in many a house. Adorable, cute, and furry, sometimes active, sometimes lazy. What is it?</item>
+        <item>I am always there for you, following you around like my best friend, copying everything you do, and lot of times you see me on the ground. What am I?</item>
+        <item>What would an apple and a Christmas tree get if they had a baby?</item>
+        <item>I am a very hot ball up in the sky. I twinkle and shine, look small and bright? What am I?</item>
+        <item>What does the snowman eat for a snack?</item>
+        <item>I am known to be shorter than all my pals and every 4 years in the calendar I change just a bit and throw everyone off. What am I?</item>
+        <item>If the end of the year is on December 31st, then what is the end of Christmas?</item>
+        <item>You see me once in June, twice in November but never in May. What letter am I?</item>
+        <item>What kind of egg can you drink?</item>
+        <item>I am the curviest and sexiest of all the numbers, I invented the hourglass figure? Who am I?</item>
+        <item>When you go out in a blizzard and you see a vampire, what do you get?</item>
+        <item>Adam and Eve took a nibble from me, because the snake said they should, but because of this nibble they lost a lot of their good. What am I?</item>
+        <item>The snowman went to see the dermatologist because his head was itchy and dry. What does the snowman get when he itches his dandruff?</item>
+        <item>What is sometimes long and other times short, thick or thin, full or sparse, and you can color it anything you want?</item>
+        <item>I am worn to mark a successful victory, I am also made of flowers and leaves formed into a circle, and I vary from big to tiny. What am I?</item>
+        <item>What 5 letter word becomes larger when you add a letter onto it?</item>
+        <item>What do you call it after all the gifts for Christmas have been opened?</item>
+        <item>What did the Zodiac get when the doctor tested him?</item>
+        <item>What phobia do people get when they see Santa Claus?</item>
+        <item>Where do rabbits go to enjoy their breakfast, lunch and dinner and a 24 hour pancakes?</item>
+        <item>What did Mrs. Claus get from Santa for being naughty on Christmas?</item>
+        <item>The snowman needs me for him to be complete, I am a rabbit’s favorite food and if you put me in a cake, I’m sure I’ll taste real good. What am I?</item>
+        <item>Santa Claus rides in a sleigh and the 3 wise men traveled by elephant, horse and camel. What do the elves ride around in?</item>
+        <item>People drink me every morning all over the world. I come from a bean and help people wake up. What am I?</item>
+        <item>I was known to Greek philosophers a thousand years ago, I have numbers all in a line, and I can tell you if rain will turn to snow. What am I?</item>
+        <item>You’ll find me in a soup, in a burger, in a pizza, I am green when raw and red when ripened and ready to become a condiment. What am I?</item>
+        <item>You can see me up north bundled up, I live inside a white house, and my diet is mainly Paleo. Who am I?</item>
+        <item>You can find me in abundance in Greenland, in a box, in a sweet treat but you’ll never ever find me in an oven. What am I?</item>
+        <item>I have a face, three hands, twelve numbers but I don’t have a body and legs. What am I?</item>
+        <item>You can see me up north bundled up, I live inside a white house, and my diet is mainly Paleo. Who am I?</item>
+        <item>My fellows and I live in an ocean, we go to “school” and sometimes children get us for a pet and put us in an aquarium. Hopefully you’ll never have to send us down the toilet. What are we?</item>
+        <item>I am a dreamlike fairyland but I can be horrific to many when I cover the land with ice. What am I?</item>
+        <item>You can see me in the Earth, Saturn and Mars but you won’t be able to see me in Venus. What letter am I?</item>
+        <item>What kind of crystals don’t break when they hit the ground?</item>
+        <item>I wag and I wiggle, I yelp and I sniff and sometimes I am usually incredibly excited when you return home. What am I?</item>
+        <item>I have four sides, I am little and I can spin, and if you want to play just bet all your chocolate coins and hope you’ll win. What am</item>
+        <item>I am fierce, I am mighty, wild and ferocious, my face is surrounded with hair and I am known to be the ruler of the land. What am I?</item>
+        <item>I am made of plastic or metal, I am used for play or for work, and you’ll usually see me in a sandbox but I am mostly out in the winter months. What am I?</item>
+        <item>Sometimes I am empty, sometimes I am full. Sometimes I am in your back pocket, other times in a purse. If you need to buy something or prove who you are, you look for me. What am I?</item>
+        <item>I am unexpected, ferocious, dreadful, bitter, violent and bad, for when I come I can ruin your plans. What am I?</item>
+        <item>What number is the loneliest and spends most of its time being single and alone?</item>
+        <item>What does December, January and February have in common?</item>
+        <item>One of my names is stratus, I am heaped and piled up in the sky, like a marshmallow I am fluffy and white. What am I?</item>
+        <item>I am a massive, destructive and gigantic pile of fluff, and when I flow, get out of the way fast don’t move so slow. What am I?</item>
+        <item>What planet will have a fancy engagement party because it has the most rings?</item>
+        <item>A fiery shrub around Christmas time you see, it looks like a flowers but it is just leaves that are on a small tree.</item>
+        <item>Monkeys love me, people eat me, on top of ice cream too you’ll find me. What am I?</item>
+        <item>I have wings but I cannot fly, I am a royal but not a king, I lay eggs but I am not a chicken. What am I?</item>
+        <item>Tie me, untie me, or leave me by the door, but I know your feet will thank me once you’ll wear me more. What am I?</item>
+        <item>You’ll find me in Canada, in Alaska and in Russia but never in Africa. What am I?</item>
+        <item>I have no doors but I have keys, I have no rooms but I do have a space, you can enter but you can never leave. What am I?</item>
+        <item>This is something you see, so fluffy and white, in a cold December morning, it makes everything bright. What am I?</item>
+        <item>What do you find at the end of the line?</item>
+        <item>I come in many varieties and many color, you can also eat me or drink me and I can also keep the doctor away. What am I?</item>
+        <item>I call the trees my home, yet I never go inside, and if I ever fall off the tree I will be surely be dead.</item>
+        <item>You can slide down the mountain when you put me on, I can be made from plastic, steel and sometimes I am wooden. What am I?</item>
+        <item>If a teacher, parent and coach aren’t able to make a spoiled teenager cry, then all you have to do is cut me with a knife and the teen’s tears will start to flow. You can eat me, but don’t dare to take a bite out of me. Who or what am I?</item>
+        <item>If you come up to the arctic you’ll see me everywhere, I am pulled by huskies to slide downhill. What am I?</item>
+        <item>I sound so cool and people all over the world come again and again to see me. Most people spend years with me but you can’t be too old or young to come see me, unless you decide to make me part of your career? I am able to make you smarter and wealthier too. What am I?</item>
+        <item>You can start by making a roll then you can mold me, put a scarf on my neck and even a couple of coal. What am I?</item>
+        <item>What social media website is a favorite among teens who don’t like to share their bedrooms?</item>
+        <item>Simple or ornate, small or massive, fake or original, but one thing is for sure that if it is lit Santa won’t come down from it. What is it?</item>
+        <item>Where does a Asian teen go to scope out a new school?</item>
+        <item>I can be round, white and shaped like a ball yet I cannot be dribbled or bounced at all. What am I?</item>
+        <item>What has a thumb but no fingers and is not living?</item>
+        <item>I am rich but I cannot be poor, I can be dark and I can be white, I can be hot or I can be cold, but one thing is for sure having too much of me can be a little jittery. What am I?</item>
+        <item>Alcohol makes me thrive and multiply, yet water will kill me. What am I?</item>
+        <item>What can be a cap, a bed, a bank and a bird at the same time?</item>
+        <item>You can always see me, yet never touch me. You can move towards me and I will always stay away at the same distance. You can run away from me, yet I will follow you still at the same distance.</item>
+        <item>I have potatoes and celebrated for 8 days straight , bright light and lots of gifts awaits. What am I?</item>
+        <item>What happens four times in a teenager’s life, once in adult life and never in childhood?</item>
+        <item>I live and thrive in the winter as I grow down and sharpen but you’ll never see me in the summer because I’ll die in warmth. What am I?</item>
+        <item>I have hands, yet I cannot shake your hand, cannot give you five and have no fingers. What am I?</item>
+        <item>You’ll see me outside standing even in the cold months. I am made of a bunch of winter flakes and I like to keep warm with a knitted yarn. What am I?</item>
+        <item>You’ll see me on Christmas on tables and wreaths, some people stand under me and might get a kiss. What am I?</item>
+        <item>I can be hot or cold, I can be made with fruit, vegetable or meat but either way you see it, on a Thanksgiving table I will be a treat. What am I?</item>
+        <item>I am a place where you can find a syrup farm, geese, snow, even loonies and toonies. What am I?</item>
+        <item>I have ears but I cannot hear and I have flakes but I have no hair. What am I?</item>
+        <item>You’ll see me on Christmas on tables and wreaths, some people stand under me and might get a kiss. What am I?</item>
+        <item>What do the Pilgrims, Indians and Puritans have in common?</item>
+        <item>What is cold and bites but no teeth?</item>
+        <item>When the Pilgrims walked off their boat into the new world, on what did they stand?</item>
+        <item>In a one story Igloo in Canada, the bedrooms were yellow, the kitchen was blue, the living room was orange and the entry hall was red and the sitting room was purple. What color were the stairs?</item>
+        <item>If you feel scared on Halloween, jolly on Christmas, how do feel on Thanksgiving?</item>
+        <item>I am mostly made of soft comfortable material, I always come in pairs and I can also be used so you won’t get burn. What am I?</item>
+        <item>Pious and devout, I wear black and white clothes and funny hats. I am not a nun nor a priest, but I was an adventurer. Who am I?</item>
+        <item>I am a catchy carol and a tune with that you can rhyme, that contains 12 grand gifts around Christmas time. What am I?</item>
+        <item>If April showers bring May flowers, what do May flowers bring?</item>
+        <item>I am a body with a leg, an arm and a head but I look like I am naked and bare. What am I?</item>
+        <item>What is hard, oddly-shaped and brings you good fortune on Thanksgiving?</item>
+        <item>I am wrapped but I am not a gift, I am kept neatly in a chamber and Archeologists find me as a great treasure. What am I?</item>
+        <item>If a tur-key has a key, and a don-key also has a key, what would you expect a monkey to have?</item>
+        <item>This is rectangular, hollow and has a lid, and where you’ll find it you might wonder, it is just six feet under. What is it?</item>
+        <item>I am everywhere at Thanksgiving ready to be tried, I wanna get away but I got dressed and now I can’t fly. What am I?</item>
+        <item>I live in a spooky castle or even in a cave, I sleep upside down and I am so creepy that people run because they’re scared. What am</item>
+        <item>What is that favorite sport of pumpkins and gourds?</item>
+        <item>Some people believe in me and others don’t at night I roam around and sometimes I float. If you hear a troubled noise coming from the ground go run and hide from my creepy sound. What am I?</item>
+        <item>I can be a sweet potato or an apple, I can be warm or cold, but one thing is for sure I am delicious and loved by so many. What am I?</item>
+        <item>You can find me from head to toe, I am a liquid, I make some people faint and I am in every living being you know. What am I?</item>
+        <item>In which place Christmas will come before Thanksgiving?</item>
+        <item>Dracula loves to draw this, as well as, put it in the bank. What is it?</item>
+        <item>We came over in the Mayflower, crossed the ocean on a ship using the power of the wind and were taught how to grow food by those who were there before us. Who are we?</item>
+        <item>What is dead, cold, hard and surrounds a cemetery?</item>
+        <item>Thanksgiving is here, everyone grab a chair, for it’s time to eat a tasty bird who flies through the air. What bird is it?</item>
+        <item>I have a body, legs and arms but I have no guts. What am I?</item>
+        <item>I am a 12 letter word, 2 compound words and people celebrate me in the fall. What am I?</item>
+        <item>If the witch has a broom and the jack o’lantern has a candle, then what does a vampire have?</item>
+        <item>I am a key that can fly and gobble. What am I?</item>
+        <item>No matter what type you are, when I’m thirsty I will come and find you no matter where you are. Who am I?</item>
+        <item>If an apple, pear and peach come from a tree, where do turkeys come from?</item>
+        <item>You’ll find me in the quietest, creepiest place in town, yet people are dying to get in. What am I?</item>
+        <item>I can be crushed, baked, carved and you can see me everywhere on Thanksgiving. What am I?</item>
+        <item>I’m fragile, dry, hollow, brittle and strong, if you see my body down the street be sure to go and hide. What am I?</item>
+        <item>You give it to your daddy, you give to your mommy, you give it to your sister and your brother and even give it to Fido and Lassie. If they give it back to you, then you both have one. You also have an unlimited supply. What is it?</item>
+        <item>What can be sour, sweet, hard or soft all at once?</item>
+        <item>You can find me inside your body but not below the waist or in your tummy. I am located in the upper part and I am a symbol of love.</item>
+        <item>Who is the hottest person at a Halloween party?</item>
+        <item>Sweet, sour, tart, and sugary, you can see me in every store and in every pantry. What am I?</item>
+        <item>If peanut butter has jelly, Bonnie has Clyde, and a pea has a pod, what do skeletons have?</item>
+        <item>White, dark, round, square, big or small, I am seen on Valentine’s Day, and loved by all. What am I?</item>
+        <item>What do the mummies, zombies, vampires, goblins and witches all have in common?</item>
+        <item>I have bows but I am not a hunter, I have wings but I am not a bird. I look like a baby wearing a diaper. Who am I?</item>
+        <item>Sternum, femur, carpals and sacrum, they are all part of a dense, brittle and sometimes irregular structure. What am I?</item>
+        <item>You see me in the rainbows, you see me on Valentine’s Day, you see me in a busy street, and my blood turns this color when oxygen and I meet. What am I?</item>
+        <item>What is small and blind, brown and creepy, and they come out at night from a damp, dark place?</item>
+        <item>In a vase, garden, pot or field, these are the homes of this Valentine’s day symbol that comes in many different colors such as red, pink, white, yellow and orange.</item>
+        <item>Ghosts and vampires will come looking for me on a dark autumn night and, with a ding and a buzz will eagerly wait with open arms for me. What am I?</item>
+        <item>Mostly worn by women or girls, this is sometimes shiny like silver or gold, and sometimes it is made of pearls.</item>
+        <item>From pumpkins and pranks, to masks and candies, I am a holiday that’ll make you excited for the darkness. What am I?</item>
+        <item>Sometimes imaginary and sometimes real, sometimes they are the closest and dearest person outside the family. Who are they?</item>
+        <item>On what day do you carve out a Jack O’ lantern?</item>
+        <item>You’ll find me in a bee, in a comb, in cakes, in a bunch, in a bun and even in mustard. What am I?</item>
+        <item>I can be green, pink, red or even yellow, and the evil Queen used me as a poison. What am I?</item>
+        <item>I am sometimes white but I am not snow, I am sometimes dark but I am not the night, I am sweet but I am not sugar, I am rich but I am not Bill Gates. What am I?</item>
+        <item>One day a year I am decorated in style and am the center of attention even when you make me into a pie. What am I?</item>
+        <item>I can be red but I am not blood, I can be yellow but I am not a banana, I can be white but I am not a snow, I can be pink but I am not Victoria’s secret. What am I?</item>
+        <item>If 66 = 2, 99 = 2, 888 = 6, 00 = 2, 7777 = 0, 667= 2, 276 = 1, 833 = 2, then what does 2876 equal?</item>
+        <item>Hard or soft, whole or broken, heavy or light, keep it or give it. What is this?</item>
+        <item>Each day many people from all over the world come and visit me, however they usually only stay for a few minutes. I am considered by many to be very dirty yet few people would want to live without me. And, whenever people come see me, they reveal to me a part of themselves that they rarely show to others. What or who am I?</item>
+        <item>Where will Valentine’s day come after Independence Day?</item>
+        <item>Sometimes I shine, sometimes I’m dull, sometimes I am big, and sometimes I am small. I can be pointy, I can be curved, and don’t ask me questions because even though I’m sharp, I’m not smart enough to answer you. What am I?</item>
+        <item>This can be a room, a box, it can be natural or artificial, it can be rare, and it is fit for a queen. What is it?</item>
+        <item>I am believed to be only one dimensional, and tinier than anything can be, and there are many who say that I am the basis of all that we see. What am I?</item>
+        <item>Current, steady, serious, former or fast, it can be either beautiful or ugly or sometimes they could forever last.</item>
+        <item>If all Wibbles are Criggles, all Borkins are Kwumblins, no Hoggles are Borkins, and all Criggles are Borkins, is it true that all Borkins are Criggles?</item>
+        <item>It could be loud it could be quiet, it could be wild it could be gentle, it could be more it could be less, it could be marital it could be casual. What is it?</item>
+        <item>Which of the following is the largest? Triangle, circle, square, or rectangle?</item>
+        <item>Almost everyone needs it, gives it, looks for it , treasures it, cherishes it and is blinded by it. What is it?</item>
+        <item>I can be long and can be short, I can be black, white, brown or purple. You can find me the world over and I am often the main event. What am I?</item>
+        <item>What starts with E and ends with E and only has one love letter in it?</item>
+        <item>You can collect me and you can toss me, you can flip me, you can spin me, and people all around the world have different versions of me. What am I?</item>
+        <item>What comes once in a date, twice in Valentine’s Day and three times in everlasting love?</item>
+        <item>I flicker and I glow and tell stories and put on a show, to make me you must move super fast many pieces of art from the first to the last. What am I?</item>
+        <item>What is surrounded by Es yet only contains a single letter, or sometimes two if you really cram it in?</item>
+        <item>What do cinders, charcoal, ember, and fire have that a smoke simply doesn’t have?</item>
+        <item>What vegetable is the most fun to be around and the one that everybody wants to hang out with?</item>
+        <item>What has a spot and is very bright, is sometimes, red, white, blue, yellow or green and is often blinding.</item>
+        <item>What is the wealthiest nut?</item>
+        <item>I can be sad, I can be happy, I can be angry and cry, I come with many faces and sometimes many sizes. I am able to communicate things words often cannot and I can move from place to place at the speed of light. What am I?</item>
+        <item>What kind of food does the baby chicken make when it goes to the bathroom?</item>
+        <item>I can be crushed to pieces but only if I am given away first, I can be clogged and attacked but that’s usually my own doing. No matter how many problems I have, you wouldn’t dare let me go. What am I?</item>
+        <item>If I don’t keep time correctly it may mean death. I cause a beating that doesn’t hurt, but rather sustains life. What am I ?</item>
+        <item>You cut me up, you chop me up, you dice me up and you cry over me. What am I?</item>
+        <item>I am sometimes old and sometimes sharp, I am often rich and fine and I absolutely love to have with me a nice glass of wine. What am I?</item>
+        <item>I always try my best to keep up with mustard and bbq sauce. Who am I? </item>
+        <item>I can be crushed to pieces but only if I am given away first, I can be clogged and attacked but that’s usually my own doing. No matter how many problems I have, you wouldn’t dare let me go. What am I?</item>
+        <item>I am a bird, I am a fruit and I am a person. What am I?</item>
+        <item>I flop around on sticks and sometimes you cheer me as I do, I desperately need a white powder to do what needs to be done, and looking at me you might wonder why I look like I am about to go swimming. What am I?</item>
+        <item>What do you call a cat who has sprouted fins and loves to swim?</item>
+        <item>What is the only 5 letter word that becomes larger when you add the letter “r” to it?</item>
+        <item>What vegetable always loses in every competition, yet is a terrific rapper?</item>
+        <item>I have a home and a big space, I have keys but I have no locks, I have lots of letters but I have no mailbox. What am I?</item>
+        <item>What fruit never ever wants to be alone?</item>
+        <item>What can you stick between a 3 and a 4 so that the result is more than three but less than four?</item>
+        <item>I am a stick stuck in a ball of sweetness. What am I?</item>
+        <item>Dark or white, sweet or bitter, sometime I can be Belgian and sometimes I can be Swiss. What am I?</item>
+        <item>What kind of food do mummies like to eat?</item>
+        <item>I love sugars and treats, I am a little critter and I sound a lot like your Mom and Dad’s sister. What am I?</item>
+        <item>What fruit is friendly and likes to meet people?</item>
+        <item>People say I put doctors out of business, sometimes I am sour, sometimes I am sweet, I can be eaten and can also be drunk. What am I?</item>
+        <item>I love apples and I love to read, you’ll find me digging around in the earth. What am I?</item>
+        <item>You can find me in the Earth, Mercury, Mars, Saturn, and Jupiter but not in Venus and Neptune. What am I?</item>
+        <item>I am a dog that has lots of ears? What am I?</item>
+        <item>Kids get high on me, I make them go wild and then they crash whenever they have too much of me? Am I a drug? What am I?</item>
+        <item>I am the sweetest and most romantic fruit. What am I?</item>
+        <item>I can be English, Roman, Latin or Greek. I come in different amounts and you can mix and match me and I can take on an almost infinite number of forms. What am I?</item>
+        <item>What is the longest fruit?</item>
+        <item>If you combine hungry people, gambling and hippies what do you get?</item>
+        <item>What kind of food is always tardy?</item>
+        <item>What word in the dictionary is hilarious?</item>
+        <item>What vegetable grows eggs?</item>
+        <item>What did the smelly feet and smelly shoes say to each other before going to a long day walking?</item>
+        <item>What is the most deceitful and dishonest fruit?</item>
+        <item>What food is so funny that it can be a comedian?</item>
+        <item>In what vegetable can you find all sorts of animals?</item>
+        <item>Every day people all over the world come to see me, but they rarely stay for more than a few minutes. I am considered very dirty by most people yet they still wouldn’t want a home without me.</item>
+        <item>What do you call the father of all sodas?</item>
+        <item>If all Puffins are Drabbles, all Munklins are Shapribs, no Quaggles are Munklins, and all Drabbles are Munklins, is it the case that all Munklins are Drabbles?</item>
+        <item>The rabbit became rich when he found 24 of what?</item>
+        <item>What kind of drink loves an earthquake?</item>
+        <item>I only come out at night, but not every night and I am not sleeping in the day. In fact I am always there, you just often don’t see me. Some people think I look like a bunny, whereas others claim I look like a person.</item>
+        <item>I am a food that likes to exercise, and people love to put things like carrots and chips in me.</item>
+        <item>I am short, I come second among a dozen, and every four years I change in a way that none of the other dozen do. What am I?</item>
+        <item>I am the meanest of all foods and it takes all the might of your teeth to tear me apart, what am I?</item>
+        <item>I am long and cylindrical, I live in a house that can make you fall down, but I can also easily be crushed in the palm of your hand. What am I?</item>
+        <item>What kind of drink loves an earthquake?</item>
+        <item>You see me 3 times in December, once in June, twice in November but never in July. What am I?</item>
+        <item>What fruit loves to go crazy and go wild?</item>
+        <item>If 666 = 3, 99 = 2, 88 = 4, 0 = 1, 5555 = 0, 92= 1, 236 = 1, 832 = 2, then what does 9236 equal?</item>
+        <item>What is the coolest and most awesome of all the vegetables?</item>
+        <item>I have two different cases but I never win nor never lose and never need a lawyer.</item>
+        <item>What kind of bread do elves and dwarfs like to eat?</item>
+        <item>It is novel, it is big, and it has created a massive outbreak. It makes you stay home, it makes you isolate, it drives people crazy they need to meditate. Schools are closed you need to quarantine it is a little scary that toilet papers disappeared and as of today there ain’t no vaccine. What is it?</item>
+        <item>I am a pal of the peanut and I love to sing along and play music?</item>
+        <item>I can laugh, I can cry, I can be the flying hero in the sky. I can dress up, I can be a clown, I can be scary, moody or happy next time around. You see me in the magazine and on TV and I get so many haters and that’s okay with me. I can be the devil, I can be a saint, I can do just about anything what you want me to be, and I still get paid. Who am I?</item>
+        <item>I get chewed, but should not be swallowed or eaten and always get thrown away.</item>
+        <item>After booming and zapping is when I emerge, to bring you bright dazzling beauty when I diverge. Some say that I hide enormous wealth, but those riches have always proven stealth. My colors are of beauty, iridescent, luminous and pretty. You can find me somewhere way up high, it might be the land that you heard of once in a lullaby. What am I?</item>
+        <item>Who is the father of all fruits?</item>
+        <item>Each day many people from all over the world and all walks of life come and visit me, however they usually only stay for a few minutes. I am considered by many to be very dirty, yucky and gross yet few people would want to live without me. And, whenever people come see me, they reveal to me a part of themselves that they rarely show to others. What or who am I?</item>
+        <item>What kind of room can you eat?</item>
+        <item>I can be crushed to pieces but only if I am given away first, I can be clogged and attacked but that’s usually my own doing. No matter how many problems I have, you wouldn’t dare let me go. I can break, fail, wrench and burn at the same time I can be light, warm, whole and heavy, pure, weak, cold, honest and open, sad or happy. What am I?</item>
+        <item>What fruit can you use to sip water?</item>
+        <item>It goes up and I go down, it is dazzling and blazing hot. If you look right at it, your eyes will wish you had not. It rises and it sets in different directions, when you stare at it directly there will be some spots in your vision. It is huge and mighty, glorious and bright, it makes everything beautiful from dawn til’ night.</item>
+        <item>What kind of dessert is the best chef?</item>
+        <item>I can be expensive, I can be cheap. I can be old, I can be new. I can dress up a woman, I can dress up a man. I can be exotic or I can be unique, simple or intricate, heavy and sometimes oh so light. I can sometimes make a lady look gaudy or elegant. I am given to many or given away, if you get a shiny and rare version of me I am sure I will be the talk of the party. What am I?</item>
+        <item>What is the tastiest kind of sand?</item>
+        <item>Circular, square, long, wobbly or little, it comes in many different shapes and you can find it in the middle. Around it we can have a serious discussion, a meeting, a project, a conference, even breakfast, lunch and dinner. It can be wooden, metal, plastic or plain, sometimes my Aunt Elisabeth even covers it with paper or linen. What is it?</item>
+        <item>I am the most cowardly and fearful of all foods and do my best to run away.</item>
+        <item>Circular, square, long, wobbly or little, it comes in many different shapes and you can find it in the middle. Around it we can have a serious discussion, a meeting, a project, a conference, even breakfast, lunch and dinner. It can be wooden, metal, plastic or plain, sometimes my Aunt Elisabeth even covers it with paper or linen. What is it?</item>
+        <item>All vegetables have the same father, who is he?</item>
+        <item>She is famously pretty and you can make her anything you want her to be. She comes in many colors and sizes, with long hair, short hair, blonde, brunette, straight or curly. She’s as cute as can be and can fit in your hand. Sometimes she might even come with a magic wand. Who is she?</item>
+        <item>What fruit is always sad?</item>
+        <item>You hear a catchy tune this time of year. You see so many lights sparkly and clear. You can even smell the hot cocoa topped with marshmallows. Your mother is so busy with her to-do lists, and Santa was seen giving Mrs. Santa a kiss. Everyone is so busy, happy and filled with cheer, for this is one of the best times of the year.</item>
+        <item>I have wings and I have a tail, across the sky is where I sail. Yet I have no eyes, ears or mouth, and I bob randomly from north to south. What am I?</item>
+        <item>I am rich but I cannot be poor, I can be dark and I can be white, I can be hot or I can be cold, I can be a powder or I can be in pieces, I can be French or Belgian, I can be raw and can be especially sweet and even addictive. But one thing is for sure having too much of me can make your body a little jittery. What am I?</item>
+        <item>The cow is my cousin. If you see my name you’ll know what I mean. What am I?</item>
+        <item>Some people believe in me and others don’t, and on Halloween nights I might be seen, at night I roam around and sometimes I float. Forget the zombies, the bats, the snakes and the mummies because when you hear a troubled noise coming from the ground, you can’t run and hide from my super spooky and creepy sound. What am I?</item>
+        <item>My name is spelled similar to a type of alcohol, and like a drunk, I can sleep for a long long time. I also rhyme with the thing humans need the most. What am I?</item>
+        <item>What is bright, red, orange, yellow, green, blue, indigo, violet, bright, red, orange, yellow, green, blue, indigo, violet, bright, red, orange, yellow, green, blue, indigo, violet, bright, red, orange, yellow, green, blue, indigo, violet, bright, red, orange, yellow, green, blue, indigo, violet, bright, red, orange, yellow, green, blue, indigo, violet?</item>
+        <item>What animal always has a buck?</item>
+        <item>I might be heavy, I might be light, I can be rusty, I can be fine. Sometimes I shine, sometimes I’m dull, sometimes I am big, and sometimes I am small. I can be pointy, I can be curved, and don’t ask me questions because even though I’m sharp, I’m not smart enough to answer you. What am I?</item>
+        <item>What do you call a bird that hates the winter months?</item>
+        <item>I can be 0-10, and even to 18.5, I may also come in half a size. New or old, narrow or wide, just take your pick, but make sure you know how to use a measuring stick. I can be muddy, smelly, expensive, colorful, plain or nice.You can also tie me, untie me, or leave me by the door, but I know your feet will thank me once you’ll wear me more. What am I?</item>
+        <item>What animal is the best cricket player?</item>
+        <item>If you can slip and fall on a banana peel, you’ll get in a jam with an orange, and you’ll start to feel blue with blueberries, you’ll get in a mash with potatoes, you’ll be in a hurry with ketchup, you’ll get in a pickle with a cucumber, then what do you get when you step on grapes?</item>
+        <item>Where do rabbits go to enjoy their breakfast, lunch and dinner?</item>
+        <item>If four women can bake four pies in four hours, how many pies can eight women bake in eight hours?</item>
+        <item>I can jump, I can swim, I swing from tree to tree and I make a house much bigger than myself. What am I?</item>
+        <item>Jeff is younger than Rodney but older than Debbie. Larry is older than Erica who is older than Jeff. Rodney is older than Larry. Who is the middle child?</item>
+        <item>What do dogs, chocolate, and trees have in common?</item>
+        <item>You are all alone in a dark room with a match and matchbox. Nearby you have 3 objects: a candle, an oil lamp and a log of firewood. Which thing do you light first?</item>
+        <item>I have wings, I can fly, I‘m not a bird yet I soar through the sky. What am I?</item>
+        <item>A bike rider is traveling north at 25 mph, a car passes the bike rider going north at 40 mph. At the same time the bike rider passes a jogger running north at 5 mph. Which will move away from the bike rider at a faster pace, the car or the jogger?</item>
+        <item>A sick bird walked into a hospital. What did it ask for from the doctor?</item>
+        <item>I married your colleagues, I married your friends, I might have even married you, and I married every single girl that asks me to, yet I am still single. Who am I?</item>
+        <item>How many berries does the skunk want to eat?</item>
+        <item>I can be deep, I can be powerful, I can be complex, blind, difficult, and profound at the same time. What am I?</item>
+        <item>What animal should you never trust?</item>
+        <item>Which word is least like the others? Third, fourth, fifth, sixth, seventh, eighth, ninth?</item>
+        <item>I have a cape but I’m not a superhero, I have a comb but never use it for my hair, and I am known to be quite territorial. What am I?</item>
+        <item>A spider was given $28, an ant was given $21 and a chicken was given $7. How much money did the dog get?</item>
+        <item>Where do hippopotamuses keep their money?</item>
+        <item>If you buy a rooster for the purpose of laying eggs and you hope to have two eggs every day for your breakfast, how many eggs can you expect to have after 13 days?</item>
+        <item>What animal is shy and always trying to hide from flying objects?</item>
+        <item>You are participating in the swimming finals at the Olympics. In the final few seconds of the race you narrowly pass the swimmer who was in third place. What place did you get?</item>
+        <item>I hang in the sky, as birds pass me by, and I am always connected to the ground. I dance in the breeze and am made of trees, I soar without making a sound. What am I?</item>
+        <item>If it took 4 people 8 hStrours to build a house, how long would it take 8 men to build the same house?</item>
+        <item>I flop and bounce and swing around on the floor or on some sticks and I sometimes look like I don’t have bones. I desperately need a white powder to do what needs to be done, and looking at me you might wonder why I look like I am about to go swimming. Who am I?</item>
+        <item>If all Clobbles are Glorkins, all Flibbles are Tunkins, no Slibbles are Flibbles, and all Glorkins are Flibbles, is it true that all Flibbles are Glorkins?</item>
+        <item>I carry a lot of secrets, happy or sad, I drive or walk to my destination rain or shine to make sure I give you what is truly yours. Everything that I bring with me is destined for only for one place which is decided in advance. Who am I?</item>
+        <item>I can be hot, I can be cold, I can rush, I can be still, I can be hard, I can slip through just about anything. What am I?</item>
+        <item>I can laugh, I can cry, I can be the flying hero in the sky, I can be the devil, I can be be a saint, I can do just about anything what you want me to be and I still get paid. Who am I?</item>
+        <item>I am said to be only one dimensional, and as tiny as can be, some say I am the foundation of all that we see. What am I?</item>
+        <item>I can be scary, I can be entertaining, I cover my face so it will be impossible for you to recognize me and I create animals from plastic. Who am I?</item>
+        <item>I swing around on sticks, and use them to do my tricks, a white powder helps me to grip, and people cheer when I flip. What am I?</item>
+        <item>I purposefully give you problems yet I can also help you solve your problems, I give you instructions and guide yet I criticize you and point out your mistakes as well. I may know numbers, I may know how to sing or dance and anything in between. Who am I?</item>
+        <item>A bag of onions weighs 175 lbs divided by 1/7th of its weight. How much does the bag of onions weigh?</item>
+        <item> At night they come without being fetched. By day they are lost without being stolen. What are they?</item>
+        <item>I can take the role of an electrician, a carpenter, a pipe lifter or a driver. I may even carry you, and if I do, you might just call me a hero. You can count on me any time of the day. Who am I?</item>
+        <item>I have branches, yet no trunk, fruit or leaves. What am I?</item>
+
+
+    </string-array>
+
+    <string-array name="Answers">
+        <item>a g e</item>
+        <item>a l l</item>
+        <item>a l w a y s</item>
+        <item>b a n k</item>
+        <item>s l o t h s</item>
+        <item>b a r b e r</item>
+        <item>b e e s</item>
+        <item>b r e a t h</item>
+        <item>b u t t e r f l y</item>
+        <item>c a n d l e</item>
+        <item>c h a l k b o a r d</item>
+        <item>c h o c o l a t e</item>
+        <item>c h o c o l a t e</item>
+        <item>c l o c k</item>
+        <item>c l o c k</item>
+        <item>c o o k i e</item>
+        <item>c u p i d</item>
+        <item>d a r k n e s s</item>
+        <item>d a t e</item>
+        <item>d a v i d</item>
+        <item>d i c t i o n a r y</item>
+        <item>d o g</item>
+        <item>d o l l</item>
+        <item>d o l l a r</item>
+        <item>e c h o</item>
+        <item>e g g</item>
+        <item>e m o j i s</item>
+        <item>f a c e b o o k</item>
+        <item>f u t u r e</item>
+        <item>g i r l f r i e n d</item>
+        <item>g l a s s e s</item>
+        <item>h e a r t</item>
+        <item>h i l a r i o u s</item>
+        <item>h o l e</item>
+        <item>j e w e l r y</item>
+        <item>k a n g a r o o</item>
+        <item>k i s s</item>
+        <item>l i d</item>
+        <item>m a t c h</item>
+        <item>m o n k e y</item>
+        <item>n a m e</item>
+        <item>n e e d l e</item>
+        <item>o n i o n</item>
+        <item>o r c h i d s</item>
+        <item>o s t r i c h</item>
+        <item>p i a n o</item>
+        <item>p o t a t o</item>
+        <item>p r o m i s e</item>
+        <item>r a i n</item>
+        <item>r a i n</item>
+        <item>r e l a t i o n s h i p</item>
+        <item>r o s e s</item>
+        <item>s e c r e t</item>
+        <item>s h a d o w</item>
+        <item>s o a p</item>
+        <item>s p o n g e</item>
+        <item>s t a i r s</item>
+        <item>s t a i r c a s e</item>
+        <item>s t a i r s</item>
+        <item>s t a m p</item>
+        <item>s u n</item>
+        <item>t a b l e</item>
+        <item>t h u n d e r s t o r m</item>
+        <item>t o w e l</item>
+        <item>t u l i p s</item>
+        <item>u n i c o r n</item>
+        <item>w a t e r m e l o n</item>
+        <item>w i n d o w</item>
+        <item>y o u</item>
+        <item>z e b r a</item>
+        <item>c a t s</item>
+        <item>s h a d o w</item>
+        <item>p i n e a p p l e</item>
+        <item>s t a r</item>
+        <item>s n o w c o n e</item>
+        <item>f e b r u a r y</item>
+        <item>s</item>
+        <item>e</item>
+        <item>e g g n o g</item>
+        <item>e i g h t</item>
+        <item>f r o s t b i t e</item>
+        <item>a p p l e</item>
+        <item>s n o w f l a k e s</item>
+        <item>h a i r</item>
+        <item>w r e a t h</item>
+        <item>l a r g e</item>
+        <item>c h r i s t m a s e s</item>
+        <item>c a n c e r</item>
+        <item>c l a u s t r o p h o b i a</item>
+        <item>i h o p</item>
+        <item>s p a n k i n g</item>
+        <item>c a r r o t</item>
+        <item>m i n i v a n</item>
+        <item>c o f f e e</item>
+        <item>t h e r m o m e t e r</item>
+        <item>t o m a t o</item>
+        <item>e s k i m o</item>
+        <item>i c e</item>
+        <item>c l o c k</item>
+        <item>e s k i m o</item>
+        <item>f i s h</item>
+        <item>w i n t e r</item>
+        <item>a</item>
+        <item>s n o w</item>
+        <item>d o g</item>
+        <item>d r e i d e l</item>
+        <item>l i o n</item>
+        <item>s h o v e l</item>
+        <item>w a l l e t</item>
+        <item>b l i z z a r d</item>
+        <item>o n e</item>
+        <item>r</item>
+        <item>c l o u d</item>
+        <item>a v a l a n c h e</item>
+        <item>s a t u r n</item>
+        <item>p o i n s e t t i a</item>
+        <item>b a n a n a</item>
+        <item>c e m e t e r y</item>
+        <item>s h o e s</item>
+        <item>a r c t i c</item>
+        <item>k e y b o a r d</item>
+        <item>s n o w</item>
+        <item>e</item>
+        <item>a p p l e s</item>
+        <item>l e a v e s</item>
+        <item>s k i s</item>
+        <item>o n i o n</item>
+        <item>s l e d</item>
+        <item>s c h o o l</item>
+        <item>s n o w m a n</item>
+        <item>m y s p a c e</item>
+        <item>c h i m n e y</item>
+        <item>o r i e n t a t i o n</item>
+        <item>s n o w b a l l</item>
+        <item>m i t t e n</item>
+        <item>c h o c o l a t e</item>
+        <item>f i r e</item>
+        <item>s n o w</item>
+        <item>h o r i z o n</item>
+        <item>h a n u k k a h</item>
+        <item>e</item>
+        <item>i c i c l e</item>
+        <item>c l o c k</item>
+        <item>s n o w m a n</item>
+        <item>m i s t l e t o e</item>
+        <item>p i e</item>
+        <item>c a n a d a</item>
+        <item>c o r n</item>
+        <item>m i s t l e t o e</item>
+        <item>i</item>
+        <item>f r o s t b i t e</item>
+        <item>f e e t</item>
+        <item>m i t t e n s</item>
+        <item>s t u f f e d</item>
+        <item>a p p l e</item>
+        <item>p i l g r i m s</item>
+        <item>y a m s</item>
+        <item>p i l g r i m s</item>
+        <item>s k e l e t o n</item>
+        <item>w i s h b o n e</item>
+        <item>m u m m y</item>
+        <item>b a n a n a</item>
+        <item>c o f f i n</item>
+        <item>t u r k e y</item>
+        <item>b a t s</item>
+        <item>s q u a s h</item>
+        <item>g h o s t s</item>
+        <item>p i e</item>
+        <item>b l o o d s</item>
+        <item>d i c t i o n a r y</item>
+        <item>b l o o d</item>
+        <item>p i l g r i m s</item>
+        <item>f e n c e</item>
+        <item>t u r k e y</item>
+        <item>s k e l e t o n</item>
+        <item>t h a n k s g i v i n g</item>
+        <item>b l o o d h o u n d</item>
+        <item>t u r k e y</item>
+        <item>v a m p i r e</item>
+        <item>p o u l t r e e</item>
+        <item>c e m e t e r y</item>
+        <item>p u m p k i n</item>
+        <item>s k e l e t o n</item>
+        <item>k i s s</item>
+        <item>c a n d y</item>
+        <item>h e a r t</item>
+        <item>d e v i l</item>
+        <item>c a n d y</item>
+        <item>n o b o d y</item>
+        <item>c h o c o l a t e</item>
+        <item>i</item>
+        <item>c u p i d</item>
+        <item>b o n e s</item>
+        <item>r e d</item>
+        <item>b a t s</item>
+        <item>r o s e s</item>
+        <item>t r e a t s</item>
+        <item>n e c k l a c e</item>
+        <item>h a l l o w e e n</item>
+        <item>f r i e n d s</item>
+        <item>h a l l o w e e n</item>
+        <item>h o n e y</item>
+        <item>a p p l e</item>
+        <item>c h o c o l a t e</item>
+        <item>p u m p k i n</item>
+        <item>r o s e</item>
+        <item>t h r e e</item>
+        <item>h e a r t</item>
+        <item>t o i l e t</item>
+        <item>d i c t i o n a r y</item>
+        <item>k n i f e</item>
+        <item>b e a u t y</item>
+        <item>s t r i n g</item>
+        <item>r e l a t i o n s h i p s</item>
+        <item>f a l s e</item>
+        <item>l o v e m a k i n g</item>
+        <item>r e c t a n g l e</item>
+        <item>l o v e</item>
+        <item>r i c e</item>
+        <item>e n v e l o p e</item>
+        <item>c o i n</item>
+        <item>e</item>
+        <item>c a r t o o n</item>
+        <item>e n v e l o p e</item>
+        <item>r</item>
+        <item>f u n g i</item>
+        <item>s p o t l i g h t</item>
+        <item>c a s h e w</item>
+        <item>e m o j i s</item>
+        <item>c h i c k p e a s</item>
+        <item>h e a r t</item>
+        <item>p a c e m a k e r</item>
+        <item>o n i o n</item>
+        <item>c h e e s e</item>
+        <item>k e t c h u p</item>
+        <item>h e a r t</item>
+        <item>k i w i</item>
+        <item>g y m n a s t</item>
+        <item>c a t f i s h</item>
+        <item>l a r g e</item>
+        <item>b e e t s</item>
+        <item>k e y b o a r d</item>
+        <item>p e a r</item>
+        <item>d o t</item>
+        <item>l o l l i p o p</item>
+        <item>c h o c o l a t e</item>
+        <item>w r a p s</item>
+        <item>a n t</item>
+        <item>d a t e</item>
+        <item>a p p l e</item>
+        <item>b o o k w o r m</item>
+        <item>r</item>
+        <item>c o r n d o g</item>
+        <item>s u g a r</item>
+        <item>h o n e y d e w</item>
+        <item>a l p h a b e t</item>
+        <item>l o n g a n</item>
+        <item>p o t l u c k</item>
+        <item>c h o c o l a t e</item>
+        <item>h i l a r i o u s</item>
+        <item>e g g p l a n t</item>
+        <item>s o c k s</item>
+        <item>l y c h e e</item>
+        <item>c r a c k e r s</item>
+        <item>z u c c h i n i</item>
+        <item>t o i l e t</item>
+        <item>p o p</item>
+        <item>n o</item>
+        <item>c a r r o t s</item>
+        <item>m i l k s h a k e</item>
+        <item>m o o n</item>
+        <item>d i p</item>
+        <item>f e b r u a r y</item>
+        <item>j e r k y</item>
+        <item>b a n a n a</item>
+        <item>m i l k s h a k e</item>
+        <item>e</item>
+        <item>b a n a n a s</item>
+        <item>t w o</item>
+        <item>r a d i s h</item>
+        <item>l e t t e r s</item>
+        <item>s h o r t b r e a d</item>
+        <item>c o r o n a v i r u s</item>
+        <item>j a m</item>
+        <item>a c t o r</item>
+        <item>g u m</item>
+        <item>r a i n b o w</item>
+        <item>p a p a y a</item>
+        <item>t o i l e t</item>
+        <item>m u s h r o o m</item>
+        <item>h e a r t</item>
+        <item>s t r a w b e r r y</item>
+        <item>s u n</item>
+        <item>c o o k i e</item>
+        <item>j e w e l r y</item>
+        <item>s a n d w i c h</item>
+        <item>t a b l e</item>
+        <item>c h i c k e n</item>
+        <item>k i s s e s</item>
+        <item>p o p c o r n</item>
+        <item>b a r b i e</item>
+        <item>b l u e b e r r y</item>
+        <item>c h r i s t m a s</item>
+        <item>k i t e</item>
+        <item>c h o c o l a t e</item>
+        <item>m o o s e</item>
+        <item>g h o s t s</item>
+        <item>b e a r</item>
+        <item>r a i n b o w</item>
+        <item>d e e r</item>
+        <item>k n i f e</item>
+        <item>s n o w b i r d</item>
+        <item>s h o e s</item>
+        <item>b a t</item>
+        <item>w i n e</item>
+        <item>i h o p</item>
+        <item>s i x t e e n</item>
+        <item>s p i d e r</item>
+        <item>e r i c a</item>
+        <item>b a r k</item>
+        <item>m a t c h</item>
+        <item>a i r p l a n e</item>
+        <item>j o g g e r</item>
+        <item>t w e e t m e n t</item>
+        <item>p r i e s t</item>
+        <item>p h e w</item>
+        <item>l o v e</item>
+        <item>c h e e t a h</item>
+        <item>t h i r d</item>
+        <item>r o o s t e r</item>
+        <item>f o u r t e e n</item>
+        <item>r i v e r b a n k</item>
+        <item>z e r o</item>
+        <item>d u c k</item>
+        <item>t h i r d</item>
+        <item>k i t e</item>
+        <item>n o n e</item>
+        <item>g y m n a s t</item>
+        <item>n o</item>
+        <item>m a i l m a n</item>
+        <item>w a t e r</item>
+        <item>a c t o r</item>
+        <item>s t r i n g</item>
+        <item>c l o w n</item>
+        <item>g y m n a s t</item>
+        <item>t e a c h e r</item>
+        <item>f</item>
+        <item>t h i r t y f i v e</item>
+        <item>f i r e f i g h t e r</item>
+        <item>b a n k</item>
+
+
+    </string-array>
+    >
+
+    <string name="textWel">Guess the Riddles!</string>
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

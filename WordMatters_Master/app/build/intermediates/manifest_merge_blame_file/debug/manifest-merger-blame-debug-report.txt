@@ -1,0 +1,71 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.WordMaster.WordQuizMaster"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->C:\Users\dorot\OneDrive\Desktop\WordMatters_Master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\dorot\OneDrive\Desktop\WordMatters_Master\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\dorot\OneDrive\Desktop\WordMatters_Master\app\src\main\AndroidManifest.xml:5:5-29:19
+12        android:name="com.example.WordMaster.WordQuizMaster.globalhighest"
+12-->C:\Users\dorot\OneDrive\Desktop\WordMatters_Master\app\src\main\AndroidManifest.xml:6:9-38
+13        android:allowBackup="true"
+13-->C:\Users\dorot\OneDrive\Desktop\WordMatters_Master\app\src\main\AndroidManifest.xml:7:9-35
+14        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+14-->[com.android.support:support-compat:28.0.0] C:\Users\dorot\.gradle\caches\transforms-2\files-2.1\49dd2c14dcc57c7f4a0aa1d53483e871\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+15        android:debuggable="true"
+16        android:icon="@mipmap/ic_launcher"
+16-->C:\Users\dorot\OneDrive\Desktop\WordMatters_Master\app\src\main\AndroidManifest.xml:8:9-43
+17        android:label="@string/app_name"
+17-->C:\Users\dorot\OneDrive\Desktop\WordMatters_Master\app\src\main\AndroidManifest.xml:9:9-41
+18        android:roundIcon="@mipmap/ic_launcher_round"
+18-->C:\Users\dorot\OneDrive\Desktop\WordMatters_Master\app\src\main\AndroidManifest.xml:10:9-54
+19        android:supportsRtl="true"
+19-->C:\Users\dorot\OneDrive\Desktop\WordMatters_Master\app\src\main\AndroidManifest.xml:11:9-35
+20        android:testOnly="true"
+21        android:theme="@style/AppTheme" >
+21-->C:\Users\dorot\OneDrive\Desktop\WordMatters_Master\app\src\main\AndroidManifest.xml:12:9-40
+22        <activity android:name="com.example.WordMaster.WordQuizMaster.End" />
+22-->C:\Users\dorot\OneDrive\Desktop\WordMatters_Master\app\src\main\AndroidManifest.xml:13:9-50
+22-->C:\Users\dorot\OneDrive\Desktop\WordMatters_Master\app\src\main\AndroidManifest.xml:13:19-38
+23        <activity android:name="com.example.WordMaster.WordQuizMaster.highestmarks" />
+23-->C:\Users\dorot\OneDrive\Desktop\WordMatters_Master\app\src\main\AndroidManifest.xml:14:9-50
+23-->C:\Users\dorot\OneDrive\Desktop\WordMatters_Master\app\src\main\AndroidManifest.xml:14:19-47
+24        <activity android:name="com.example.WordMaster.WordQuizMaster.GameOver" />
+24-->C:\Users\dorot\OneDrive\Desktop\WordMatters_Master\app\src\main\AndroidManifest.xml:15:9-46
+24-->C:\Users\dorot\OneDrive\Desktop\WordMatters_Master\app\src\main\AndroidManifest.xml:15:19-43
+25        <activity android:name="com.example.WordMaster.WordQuizMaster.MainActivity" />
+25-->C:\Users\dorot\OneDrive\Desktop\WordMatters_Master\app\src\main\AndroidManifest.xml:16:9-50
+25-->C:\Users\dorot\OneDrive\Desktop\WordMatters_Master\app\src\main\AndroidManifest.xml:16:19-47
+26        <activity android:name="com.example.WordMaster.WordQuizMaster.MainMenu" >
+26-->C:\Users\dorot\OneDrive\Desktop\WordMatters_Master\app\src\main\AndroidManifest.xml:17:9-23:20
+26-->C:\Users\dorot\OneDrive\Desktop\WordMatters_Master\app\src\main\AndroidManifest.xml:17:19-43
+27            <intent-filter>
+27-->C:\Users\dorot\OneDrive\Desktop\WordMatters_Master\app\src\main\AndroidManifest.xml:18:13-22:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->C:\Users\dorot\OneDrive\Desktop\WordMatters_Master\app\src\main\AndroidManifest.xml:19:17-69
+28-->C:\Users\dorot\OneDrive\Desktop\WordMatters_Master\app\src\main\AndroidManifest.xml:19:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->C:\Users\dorot\OneDrive\Desktop\WordMatters_Master\app\src\main\AndroidManifest.xml:21:17-77
+30-->C:\Users\dorot\OneDrive\Desktop\WordMatters_Master\app\src\main\AndroidManifest.xml:21:27-74
+31            </intent-filter>
+32        </activity>
+33        <activity android:name="com.example.WordMaster.WordQuizMaster.EncouragePage" />
+33-->C:\Users\dorot\OneDrive\Desktop\WordMatters_Master\app\src\main\AndroidManifest.xml:24:9-51
+33-->C:\Users\dorot\OneDrive\Desktop\WordMatters_Master\app\src\main\AndroidManifest.xml:24:19-48
+34
+35        <meta-data
+35-->C:\Users\dorot\OneDrive\Desktop\WordMatters_Master\app\src\main\AndroidManifest.xml:26:9-28:57
+36            android:name="preloaded_fonts"
+36-->C:\Users\dorot\OneDrive\Desktop\WordMatters_Master\app\src\main\AndroidManifest.xml:27:13-43
+37            android:resource="@array/preloaded_fonts" />
+37-->C:\Users\dorot\OneDrive\Desktop\WordMatters_Master\app\src\main\AndroidManifest.xml:28:13-54
+38    </application>
+39
+40</manifest>

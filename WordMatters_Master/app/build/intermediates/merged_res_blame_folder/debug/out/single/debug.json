@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_goodhighest.gif.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\drawable\\goodhighest.gif"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_game_over.xml.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\layout\\activity_game_over.xml"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_end.xml.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\layout\\activity_end.xml"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bgbtn.png.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\drawable\\bgbtn.png"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_welcome_gif.gif.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\drawable\\welcome_gif.gif"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\font_finger_paint.xml.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\font\\finger_paint.xml"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_highestmarks.xml.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\layout\\activity_highestmarks.xml"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_deletebtn.webp.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\drawable\\deletebtn.webp"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_encourage_page.xml.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\layout\\activity_encourage_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_end.gif.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\drawable\\end.gif"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backgroundv2.jpg.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\drawable\\backgroundv2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_skiptbtn.jpg.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\drawable\\skiptbtn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bgpink.png.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\drawable\\bgpink.png"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bgpurple.png.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\drawable\\bgpurple.png"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bgquestion.png.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\drawable\\bgquestion.png"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_menu.xml.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\layout\\activity_main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_encourage.png.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\drawable\\encourage.png"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gameoverv3.gif.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\drawable\\gameoverv3.gif"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homepage.jpg.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\drawable\\homepage.jpg"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tipsbtn.jpg.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\drawable\\tipsbtn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_appiconv3.jpg.flat",
+        "source": "C:\\Users\\dorot\\OneDrive\\Desktop\\WordMatters_Master\\app\\src\\main\\res\\drawable\\appiconv3.jpg"
+    }
+]

@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowFullscreen">true</item>
+
+        <!-- 隱藏標題欄 -->
+        <item name="android:windowNoTitle">true</item>
+
+    </style>
+
+</resources>
